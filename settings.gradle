@@ -1,0 +1,1 @@
+include ':app', ':tester', ':maps', ':green', ':anime', ':toolbars', ':expand', ':searchlist', ':jiffysearch', ':swiperefresh', ':errorview', ':parsegson', ':files', ':dependency'

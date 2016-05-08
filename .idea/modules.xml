@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DummyProject.iml" filepath="$PROJECT_DIR$/DummyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime/anime.iml" filepath="$PROJECT_DIR$/anime/anime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency/dependency.iml" filepath="$PROJECT_DIR$/dependency/dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errorview/errorview.iml" filepath="$PROJECT_DIR$/errorview/errorview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expand/expand.iml" filepath="$PROJECT_DIR$/expand/expand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green/green.iml" filepath="$PROJECT_DIR$/green/green.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiffysearch/jiffysearch.iml" filepath="$PROJECT_DIR$/jiffysearch/jiffysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maps/maps.iml" filepath="$PROJECT_DIR$/maps/maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parsegson/parsegson.iml" filepath="$PROJECT_DIR$/parsegson/parsegson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchlist/searchlist.iml" filepath="$PROJECT_DIR$/searchlist/searchlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperefresh/swiperefresh.iml" filepath="$PROJECT_DIR$/swiperefresh/swiperefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tester/tester.iml" filepath="$PROJECT_DIR$/tester/tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbars/toolbars.iml" filepath="$PROJECT_DIR$/toolbars/toolbars.iml" />
+    </modules>
+  </component>
+</project>

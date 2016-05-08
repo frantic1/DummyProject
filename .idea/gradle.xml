@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/anime" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dependency" />
+            <option value="$PROJECT_DIR$/errorview" />
+            <option value="$PROJECT_DIR$/expand" />
+            <option value="$PROJECT_DIR$/files" />
+            <option value="$PROJECT_DIR$/green" />
+            <option value="$PROJECT_DIR$/jiffysearch" />
+            <option value="$PROJECT_DIR$/maps" />
+            <option value="$PROJECT_DIR$/parsegson" />
+            <option value="$PROJECT_DIR$/searchlist" />
+            <option value="$PROJECT_DIR$/swiperefresh" />
+            <option value="$PROJECT_DIR$/tester" />
+            <option value="$PROJECT_DIR$/toolbars" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/anime" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dependency" />
+            <option value="$PROJECT_DIR$/errorview" />
+            <option value="$PROJECT_DIR$/expand" />
+            <option value="$PROJECT_DIR$/files" />
+            <option value="$PROJECT_DIR$/green" />
+            <option value="$PROJECT_DIR$/jiffysearch" />
+            <option value="$PROJECT_DIR$/maps" />
+            <option value="$PROJECT_DIR$/parsegson" />
+            <option value="$PROJECT_DIR$/searchlist" />
+            <option value="$PROJECT_DIR$/swiperefresh" />
+            <option value="$PROJECT_DIR$/tester" />
+            <option value="$PROJECT_DIR$/toolbars" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
